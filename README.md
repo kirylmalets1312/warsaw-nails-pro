@@ -1,3 +1,3 @@
 # Warsaw Nails Pro
 
-Продающий сайт с онлайн-записью для мастеров маникюра.
+This is a booking website for nail services.
